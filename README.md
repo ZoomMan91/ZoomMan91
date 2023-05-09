@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZoomMan91
 - 👀 I’m interested in nothing
 - 🌱 I’m currently learning: Advanced Python and beginner C++
-- 💞️ I’m looking to collaborate on fish, plant, and tree genetics
+- 💞️ I’m looking to collaborate on animal, fish, plant, and tree genetics
 - 📫 How to reach me: andrei.kudinov@luke.fi or andrei.kudinov@hotmail.com
 
 <!---
